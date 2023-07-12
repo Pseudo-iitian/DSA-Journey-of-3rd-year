@@ -12,4 +12,15 @@ Advantage:
 4- you will find fun here.
 
 
+Rule: 
+0- create a folder with name - DSA JOURNEY, inside it ->
 
+1- Ceate folder with your name.
+
+2- inside the folder you will be having a date wise folder.
+
+3- you do create programs files into it with name i.e. 1_problemname.cpp
+
+4- Then push it to repo and have a pull request.
+
+5- I will be merging this into master branch if it was at correct pattern.
