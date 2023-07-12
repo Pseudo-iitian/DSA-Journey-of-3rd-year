@@ -19,5 +19,5 @@ int main(){
     return 0;
 }
 
-Link to the problem : 
-https://leetcode.com/problems/count-distinct-numbers-on-board/submissions/992055282/
+// Link to the problem : 
+// https://leetcode.com/problems/count-distinct-numbers-on-board/submissions/992055282/
