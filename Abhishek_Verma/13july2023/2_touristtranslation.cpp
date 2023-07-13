@@ -24,7 +24,6 @@ typedef long double lld;
 
 // -----------------------------------------------------------------
 
-#define pb push_back
 #define F first
 #define S second
 #define reverse(v) reverse(v.begin(),v.end())
