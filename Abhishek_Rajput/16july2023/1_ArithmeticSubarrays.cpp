@@ -24,10 +24,8 @@ public:
             arr.push_back(r);
         }
         return arr;
-        
     }
 };
-
 int main(){
     Solution s;
     vector<int>nums = {4,6,5,9,3,7};
@@ -37,7 +35,6 @@ int main(){
     for(int i=0;i<ans.size();i++)
         cout<<ans[i]<<" ";
     cout<<endl;
-
     return 0;
 }
 
