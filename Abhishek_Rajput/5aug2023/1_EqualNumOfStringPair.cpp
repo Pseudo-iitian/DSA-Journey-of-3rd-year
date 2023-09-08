@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+
 class Solution {
 public:
     int maximumNumberOfStringPairs(vector<string>& words) {
@@ -10,7 +11,6 @@ public:
             c+= !s.insert(i).second;
         }
         return c;
-
     }
 };
 
