@@ -15,7 +15,6 @@ public:
         return c;
     }
 };
-
 int main(){
     Solution ob;
     vector<int>costs={1,3,2,4,1};
